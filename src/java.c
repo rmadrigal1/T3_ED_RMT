@@ -1,3 +1,3 @@
 void main(void){
-	printf" Esto es una prueba";
+	printf" Esto ya no lo es";
 }
